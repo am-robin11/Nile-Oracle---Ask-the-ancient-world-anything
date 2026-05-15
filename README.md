@@ -2,7 +2,7 @@
 
 > An AI-powered RAG chatbot for exploring Ancient Egyptian history, built on Bunson's *Encyclopedia of Ancient Egypt*, Groq (Llama 3.3 70B), LangChain, ChromaDB, and Flask.
 
-![NileOracle Welcome Screen](screenshots/Screenshot__1_.png)
+![NileOracle Welcome Screen](screenshots/Screenshot%20(1).png)
 
 ---
 
@@ -17,13 +17,13 @@ It uses **Retrieval-Augmented Generation (RAG)**: your question is matched again
 ## 📸 Screenshots
 
 ### Welcome Screen
-![Welcome](screenshots/Screenshot__1_.png)
+![Welcome](screenshots/Screenshot%20(1).png)
 
 ### Answering a Complex Question
-![Timeline Response](screenshots/Screenshot__2_.png)
+![Timeline Response](screenshots/Screenshot%20(2).png)
 
 ### Multi-turn Conversation
-![Conversation](screenshots/Screenshot__3_.png)
+![Conversation](screenshots/Screenshot%20(3).png)
 
 ---
 
